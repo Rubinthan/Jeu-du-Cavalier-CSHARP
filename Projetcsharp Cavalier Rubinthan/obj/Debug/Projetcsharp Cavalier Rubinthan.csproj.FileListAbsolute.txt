@@ -1,0 +1,64 @@
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.exe.config
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.exe
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.pdb
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csprojAssemblyReference.cache
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.Form1.resources
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.Properties.Resources.resources
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csproj.GenerateResource.cache
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csproj.CoreCompileInputs.cache
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.exe
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.pdb
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\cavalier.jpg
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\epee.jpg
+C:\Users\jegan\Documents\coursing2\c++\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\gameover.jpg
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\cavalier.jpg
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\epee.jpg
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\gameover.jpg
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.exe.config
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.exe
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.pdb
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csprojAssemblyReference.cache
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.Properties.Resources.resources
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csproj.GenerateResource.cache
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csproj.CoreCompileInputs.cache
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.exe
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.pdb
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\echiquier.jpg
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.ModeJoueur.resources
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.ModeSimulation.resources
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.ModedeJeu.resources
+C:\Users\jegan\Pictures\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\cavalier3.jpg
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\cavalier.jpg
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\epee.jpg
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\gameover.jpg
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\echiquier.jpg
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\cavalier3.jpg
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.exe.config
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.exe
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.pdb
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csprojAssemblyReference.cache
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.ModeJoueur.resources
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.ModeSimulation.resources
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.ModedeJeu.resources
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.Properties.Resources.resources
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csproj.GenerateResource.cache
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csproj.CoreCompileInputs.cache
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.exe
+C:\Users\jegan\Documents\coursing2\c++\Porjetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.pdb
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\cavalier.jpg
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\epee.jpg
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\gameover.jpg
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\echiquier.jpg
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\images\cavalier3.jpg
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.exe.config
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.exe
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\bin\Debug\Projetcsharp Cavalier Rubinthan.pdb
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csprojAssemblyReference.cache
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.ModeJoueur.resources
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.ModeSimulation.resources
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.ModedeJeu.resources
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp_Cavalier_Rubinthan.Properties.Resources.resources
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csproj.GenerateResource.cache
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.csproj.CoreCompileInputs.cache
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.exe
+C:\Users\jegan\Documents\coursing2\c++\Projetc#final\Projetcsharp Cavalier\Projetcsharp Cavalier\Projetcsharp Cavalier Rubinthan\obj\Debug\Projetcsharp Cavalier Rubinthan.pdb
